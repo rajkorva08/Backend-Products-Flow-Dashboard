@@ -1,0 +1,23 @@
+# Node Modules
+node_modules
+
+# Environment variables
+.Environment
+
+# Logs
+logs/
+*.logs
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output folders
+dist/
+build/
+
+# IDE and OS generated files
+.vscode/
+*.swp
+*.swo
